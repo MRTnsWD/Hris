@@ -1,3 +1,3 @@
 # Hris
 
-4 tampilan
+7 Tampilan
